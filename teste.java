@@ -7,5 +7,6 @@ public class Teste {
     int segundoNum = dadosUt.nextInt();
     int soma = primeiroNum + segundoNum;
     System.out.println("A soma é: " +soma);
+    auudsgagdas
     }
 }
